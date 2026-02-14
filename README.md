@@ -1,14 +1,21 @@
-Customer Segmentation using K-Means
+# Customer Segmentation Dashboard
 
-Goal:
-Group customers by spend and frequency.
+This project performs customer segmentation using sales transaction data.
 
-Steps:
-1. Feature engineering
-2. Data scaling
-3. KMeans clustering
-4. Visualization
-5. Business interpretation
+## Objective
+Group customers based on:
+- Total spend
+- Purchase frequency
 
-Outcome:
-Identified 4 customer segments for targeted marketing.
+## Tools
+- Python
+- Pandas
+- Matplotlib
+
+## Steps
+1. Load dataset
+2. Aggregate customer metrics
+3. Visualize spend vs frequency
+
+## Output
+Scatter plot showing customer segments.
