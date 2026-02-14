@@ -19,3 +19,4 @@ Group customers based on:
 
 ## Output
 Scatter plot showing customer segments.
+<img width="800" height="681" alt="image" src="https://github.com/user-attachments/assets/eae9b05c-5bbc-4fbc-b7ad-0297668a12e0" />
